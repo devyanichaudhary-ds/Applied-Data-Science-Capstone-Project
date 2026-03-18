@@ -1,4 +1,4 @@
-# Data Analysis Projects
+# Applied Data Science Capstone Project
 
 This repository contains Applied Data Science Capstone Project By IBM created using Python.
 
